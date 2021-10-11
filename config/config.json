@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xff7e423e69faa720c3f6f75b502e1ba61689a6c1",
+  "SCAN_LINK": "https://polygonscan.com/address/0xff7e423e69faa720c3f6f75b502e1ba61689a6c1",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Platy Pixels",
+  "SYMBOL": "PP",
+  "MAX_SUPPLY": 4445,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/platypixels",
+  "SHOW_BACKGROUND": false
+}
